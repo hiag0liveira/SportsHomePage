@@ -5,7 +5,7 @@ Esta é uma página de esportes simples que foi criada como um projeto de práti
 ## Tecnologias utilizadas
 As tecnologias utilizadas para criar esta página foram HTML e CSS. Não foram utilizados frameworks ou bibliotecas adicionais.
 
-## Estrutura da página
+## 🏼‍💻Estrutura da página
 A página é composta por um cabeçalho, um menu de navegação, uma seção principal, uma seção secundária e um rodapé.
  
  ## Cabeçalho
